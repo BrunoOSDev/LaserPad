@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/05 19:25:43.000.204,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 19:37:21.000.458,C:\Projetos\Portifolio\LaserPad\untPrincipal.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 19:37:21.000.458,C:\Projetos\Portifolio\LaserPad\untPrincipal.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/05 19:37:32.000.952,C:\Projetos\Portifolio\LaserPad\prjLaserPad.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/06 18:00:20.000.584,=C:\Projetos\Portifolio\LaserPad\Unit1.pas</Transaction>
+    <Transaction>2022/10/06 18:05:51.000.524,C:\Projetos\Portifolio\LaserPad\Unit1.pas=C:\Projetos\Portifolio\LaserPad\LPUtil.pas</Transaction>
+    <Transaction>2022/10/06 19:51:54.000.623,=C:\Projetos\Portifolio\LaserPad\Unit1.pas</Transaction>
+    <Transaction>2022/10/06 19:53:03.000.252,C:\Projetos\Portifolio\LaserPad\Unit1.pas=C:\Projetos\Portifolio\LaserPad\LPUtilQA.pas</Transaction>
+  </Transactions>
+</BorlandProject>
