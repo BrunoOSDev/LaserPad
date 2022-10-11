@@ -1,4 +1,6 @@
 Win32
 Win64
-Checklist
+Checklist.xlsx
 *.dcu
+__history
+__recovery
